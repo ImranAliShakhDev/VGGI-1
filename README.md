@@ -1,2 +1,4 @@
-# VGGI
-Practical assignments
+# WebGL
+
+Project that accompanies VGGI credit module.
+
