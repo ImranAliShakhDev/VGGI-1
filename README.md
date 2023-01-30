@@ -1,4 +1,4 @@
 # WebGL
 
-Project that accompanies VGGI credit module.
-
+Practical assigment #1 (Surface Rendering) 
+Variant № 1
